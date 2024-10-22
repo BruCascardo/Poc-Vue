@@ -11,11 +11,6 @@ Este proyecto es un conversor de divisas simple desarrollado en **Vue.js**. Perm
   
 ## Requisitos previos
 
-Para ejecutar este proyecto en tu entorno local, necesitarás tener instaladas las siguientes herramientas:
-
-- **Node.js** (versión 12 o superior)
-- **Vue CLI** (opcional, pero recomendado)
-
 Si no tienes `Vue CLI` instalado, puedes hacerlo ejecutando el siguiente comando en tu terminal:
 
 ```bash
