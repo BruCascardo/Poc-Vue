@@ -24,8 +24,8 @@ Sigue estos pasos para instalar y ejecutar el proyecto en tu máquina local:
 1. **Clonar el repositorio:**
 
    ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
-   cd tu-repositorio
+   git clone https://github.com/BruCascardo/Poc-Vue
+   cd currency-converter
    ```
 
 2. **Instalar dependencias:**
@@ -66,5 +66,3 @@ Sigue estos pasos para instalar y ejecutar el proyecto en tu máquina local:
 
 - Las tasas de conversión están definidas de manera estática en el código para simplificar el ejemplo. En un entorno real, podrías utilizar una API como **Exchangerate-API** o **Fixer.io** para obtener tasas de cambio actualizadas.
 - Este proyecto utiliza un servidor local de desarrollo para mostrar la aplicación en tiempo real y facilitar el desarrollo.
-
-¡Gracias por usar este conversor de divisas! 🎉
